@@ -26,7 +26,7 @@ Commands for the serial monitor are:<br>
 "???" - returns "GPRC" for com-port identification<br>
 <br>
 <b>ToDo:</b> Using GoEasyPro, I load the video lists from the SD and can watch the recorded videos. The cameras' AP mode switches off after 10 minutes. It is desirable to find a way to keep the camera's WiFi turned on via UDP. This is the only way to connect to the cameras WiFi after 10 minutes and watch the videos. If anyone has any idea how to keep AP mode alive with this remote control, tell me. Thanks
-<br>
+<br><br>
 With GoEasyPro I can show the small display of the original remote and much more.<br>
 Go to <a href="https://github.com/sepp89117/GoEasyPro">GoEasyPro</a><br>
 <img src="https://github.com/sepp89117/GoEasyPro/blob/master/GoEasyPro_preview.png">
