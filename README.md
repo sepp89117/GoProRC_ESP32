@@ -2,6 +2,8 @@
 Allows simultaneous control of up to 8 GoPro cameras
 
 This remote control provides an access point to which the cameras can connect. Simply pair with "Smart Remote" on the camera while the remote control is running.
+<br>
+Look also https://github.com/sepp89117/GoPro_ESP32_TFT_Touch-Control
 
 <br>
 You need an ESP32 module for this.<br>
